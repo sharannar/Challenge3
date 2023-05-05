@@ -1,1 +1,1 @@
-# Challenge3
+# Missing Money Matters Challenge3: In this challenge, I had to identify the number of transactions that took place between 2011-2012, money made during those periods and by whom, and detail the discrepancy in the company fianacials.
